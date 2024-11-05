@@ -1,0 +1,18 @@
+WEB/App Name
+Introduction
+intro to team
+detailed explanation 
+innovative
+how to prepare
+Frontend --> React native(for mobile), React Js, Bootstrap, Tailwind
+Backend --> Node JS, Mongo DB
+cloud storage --> AWS, Google
+version control --> Github
+testing -->Jest
+tools--> VSC, Cloud Server, Docker, Kubernetes
+challenges
+impacts
+benefits
+sustainability
+conclusion
+ending with your thoughts on this product
